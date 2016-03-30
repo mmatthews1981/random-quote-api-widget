@@ -1,0 +1,50 @@
+body {
+  background-color: #3D3242;
+}
+
+a, a:hover {
+  color: #7A3E48
+}
+
+h1 {
+  color: #EECD86;
+}
+
+h2 {
+  color: #7A3E48;
+  font-weight: 700;
+}
+
+h2 small {
+  color: #B95835;
+}
+
+p {
+  color: #EECD86;
+}
+
+.section{
+  margin-bottom: 25px;
+}
+
+.button-container {
+  margin: 45px;
+}
+
+a.button {
+  color: #3D3242;
+  font-size: 24px;
+  background-color: #EECD86;
+  padding: 15px;
+  border-radius: 20px;
+  text-decoration: none;
+}
+
+.quote-window {
+  background-color: #EECD86;
+  border: 10px solid #7A3E48;
+  border-radius: 20px;
+  padding: 5px 25px;
+  max-width: 400px;
+  margin: 0px auto;
+}
